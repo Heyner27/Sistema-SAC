@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402536740745",
+    "project_id": "bookingclass-5ea04",
+    "storage_bucket": "bookingclass-5ea04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402536740745:android:8edb17cbd47fb76cb49358",
+        "android_client_info": {
+          "package_name": "com.example.bookingclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVxBw0ty7Xm1xY5WT7FM6vcca6Hu9Cr28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
